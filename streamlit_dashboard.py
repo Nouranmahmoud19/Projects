@@ -7,7 +7,7 @@ import seaborn as sns
 
 st.set_page_config(page_title="Bike sharing Dashboard", layout="wide")
 
-df = pd.read_csv(r"C:\Users\noura\OneDrive\Desktop\Ai Msc\hour.csv")  
+df = pd.read_csv(r"hour.csv")  
 
 
 # Data preprocessing
